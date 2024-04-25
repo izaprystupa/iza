@@ -49,6 +49,10 @@ body {
 .estudante{
     padding: 24px 0;
 }
+.estudante-todos{
+    display: grid;
+    grid-auto-rows: 20%;
+}
 .estudante-imagem{
     width: 120px;
 }
