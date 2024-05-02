@@ -48,11 +48,9 @@ body {
 
 .estudante{
     padding: 24px 0;
+    text-decoration: none;
 }
-.estudante-todos{
-    display: grid;
-    grid-auto-rows: 20%;
-}
+
 .estudante-imagem{
     width: 120px;
 }
@@ -75,6 +73,7 @@ body {
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+   
 }
 
 .rodape{
